@@ -1,5 +1,6 @@
 {
   "domain": "hdhomerun",
+  "version": "0.0.7",
   "name": "HDHomeRun",
   "config_flow": true,
   "documentation": "https://github.com/burnnat/ha-hdhomerun",
